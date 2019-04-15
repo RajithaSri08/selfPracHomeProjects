@@ -1,1 +1,1 @@
-# selfPracHomeProjects
+This is java training at home
